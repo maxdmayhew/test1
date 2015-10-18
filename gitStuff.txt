@@ -1,0 +1,5 @@
+-- Let's learn git --
+
+delete the .git folder in order to "ungit" a folder on my local repo
+
+
